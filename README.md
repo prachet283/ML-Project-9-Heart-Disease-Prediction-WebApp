@@ -16,5 +16,8 @@ The model achieves an accuracy of approximately 85% on the test set.
 # Contributing
 Contributions are welcome! Please fork this repository and create a pull request with your changes. Ensure your code follows the project's coding standards and include relevant tests.
 
+# Deployment
+The application is deployed using Streamlit. You can access it here = https://ml-project-2-diabetespredictionwebapp-44rgkbp7odkbzjcmyl94ki.streamlit.app/
+
 # Contact
 If you have any questions or suggestions, feel free to contact me at prachetpandav283@gmail.com .
