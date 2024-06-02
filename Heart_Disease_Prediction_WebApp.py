@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-loaded_model = pickle.load(open("C:/Users/prachet/OneDrive - Vidyalankar Institute of Technology/Desktop/Coding/Machine Learning/ML-Project-9-Heart Disease Prediction/heart_disease_trained_model.sav",'rb'))
+loaded_model = pickle.load(open("heart_disease_trained_model.sav",'rb'))
 
 def heart_disease_prediction(input_data):
 
